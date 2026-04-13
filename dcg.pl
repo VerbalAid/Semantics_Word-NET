@@ -177,4 +177,4 @@ has_part_via_hyp(Whole, Part) :-
     s(WID, 1, Whole, n, _, _),
     hyp(WID, ParentID),
     s(ParentID, 1, Parent, n, _, _),
-    has_part(Parent, Part)..
+    has_part(Parent, Part).
