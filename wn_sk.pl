@@ -1,0 +1,10 @@
+sel(eat,   subject, 5).
+sel(eat,   object,  13).
+sel(drink, subject, 5).
+sel(drink, object,  13).
+sel(read,  subject, 18).
+sel(read,  object,  6).
+sel(write, subject, 18).
+sel(write, object,  6).
+sel(bite,  subject, 5).
+sel(bite,  object,  5).
