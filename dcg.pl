@@ -6,11 +6,11 @@
 :- discontiguous sentence/2.
 :- discontiguous has_part/2. 
 
-:- consult('/home/drk/wordnet_project/prolog/wn_s.pl').
-:- consult('/home/drk/wordnet_project/prolog/wn_hyp.pl').
-:- consult('/home/drk/wordnet_project/prolog/wn_mm.pl').
-:- consult('/home/drk/wordnet_project/WNprolog-3.0/prolog/wn_sk.pl').
-:- consult('/home/drk/wordnet_project/wn_sk.pl').
+:- consult('/home/drk/Desktop/Semantics/wordnet_project/prolog/wn_s.pl').
+:- consult('/home/drk/Desktop/Semantics/wordnet_project/prolog/wn_hyp.pl').
+:- consult('/home/drk/Desktop/Semantics/wordnet_project/prolog/wn_mm.pl').
+:- consult('/home/drk/Desktop/Semantics/wordnet_project/WNprolog-3.0/prolog/wn_sk.pl').
+:- consult('/home/drk/Desktop/Semantics/wordnet_project/wn_sk.pl').
 
 % --- Simple grammar (no LF) ---
 /* sentence --> noun_phrase, verb_phrase.
